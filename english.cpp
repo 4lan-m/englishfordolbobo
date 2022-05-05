@@ -68,6 +68,6 @@ int main() {
   }
   std :: cout << "Вы повторили:" << std :: endl;
   for (int i = 0; i < 8; i++){
-  std :: cout << n1[i] << " - " << n2[i] << masN5 [i] << "раз" << std :: endl;
+  std :: cout << n1[i] << " - " << n2[i] << " " << masN5 [i] << " раз" << std :: endl;
   } 
 }
